@@ -1,8 +1,0 @@
-{
-    "servers": [
-        {
-            "name": "European SideStore",
-            "address": "https://my-very-own-anisette.onrender.com"
-        }
-    ]
-}
